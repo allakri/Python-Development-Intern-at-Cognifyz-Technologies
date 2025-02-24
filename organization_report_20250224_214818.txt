@@ -1,0 +1,12 @@
+File Organization Report - 2025-02-24 21:48:18
+==================================================
+
+Total files processed: 3
+
+Images (1 files):
+  - image.jpg
+
+Documents (2 files):
+  - document.pdf
+  - example.txt
+
