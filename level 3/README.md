@@ -15,7 +15,7 @@ The **File Organizer** is a Python script that automatically organizes files in 
 ## Directory Structure
 ```
 project_folder/
-  ├── file_organizer.py  # Main script
+  ├── task3.py  # Main script
   ├── watch_folder/      # Directory to be monitored (auto-created)
   ├── organized_files/   # Destination directory (auto-created)
       ├── images/
@@ -38,7 +38,7 @@ Ensure you have **Python 3.x** installed.
 2. Open a terminal and navigate to the project folder.
 3. Run the script:
    ```sh
-   python file_organizer.py
+   python task3.py
    ```
 
 ---
