@@ -50,7 +50,6 @@ Make your changes and commit them:
 - 📂 **level 2** 
 - 📂 **level 3** 
 
-*(Replace with actual project details)*
 
 ## Contact
 🔗 **GitHub Profile:** [allakri](https://github.com/allakri)
